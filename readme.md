@@ -15,7 +15,7 @@ git clone <git url>
 
 Type the below command to commit all files to git:
 ```
-git commit -am .
+git add .; git commit -am .
 ```
 
 ## Push to github
